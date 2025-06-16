@@ -23,4 +23,5 @@ Este repositorio cumple con los siguientes requerimientos, basándose en la prop
 
 ---
 **Autor:** Valeria Solís Monge
+
 **Contacto:** [valsolis1601@gmail.com] | [www.linkedin.com/in/valeria-solis-monge-411514325]
