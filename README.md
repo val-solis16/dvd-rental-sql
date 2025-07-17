@@ -21,7 +21,8 @@ Este repositorio cumple con los siguientes requerimientos, basándose en la prop
 1.  Configura una base de datos PostgreSQL con el esquema `DVDRental`.
 2.  Ejecuta las sentencias del archivo en tu cliente SQL preferido.
 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 ---
-**Autor:** Valeria Solís Monge
+**Autora:** Valeria Solís Monge
 
 **Contacto:** [valsolis1601@gmail.com] | [www.linkedin.com/in/valeria-solis-monge-411514325]
